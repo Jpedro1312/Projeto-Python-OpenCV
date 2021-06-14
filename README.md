@@ -21,3 +21,8 @@ for (x,y,w,h) in faces_rects:
      cv.rectangle(test_image, (x, y), (x+w, y+h), (0, 255, 0), 2)
 plt.imshow(convertToRGB(test_image))
 plt.show()
+
+#João Pedro Barbosa R. da Silva
+#João Paulo de Souza Debrot
+#Lucas de Souza Bernardes da Mota
+#João Pereira Machado Neto
