@@ -2,9 +2,7 @@
 # Codigo referente ao video sobre a indentificação de rosto em fotos:
 
 import cv2 as cv
-
 import numpy as np
-
 import matplotlib.pyplot as plt
 
 
